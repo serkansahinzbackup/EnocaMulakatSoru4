@@ -1,0 +1,4 @@
+Tüm istekler main içerisinde çözülmüştür
+Sorunun sorunda listedeki eksik numarayı bulmamız için metot yazılması istenmiş,
+FindMissingNumber sınıfının içerinde bu metot static olarak yazılmıştır ve
+Main içerinde çağırılarak çalıştırılmıştır
