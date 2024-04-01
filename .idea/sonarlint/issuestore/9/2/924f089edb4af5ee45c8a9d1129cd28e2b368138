@@ -1,0 +1,10 @@
+
+Ÿ	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¼È²ûÿÿÿÿ8´¬Óé1J$93226bd3-3c75-4d3e-8377-a7d42ce3c8ed
+]
+java:S1220""Move this file to a named package.8’´¬Óé1J$5f8bf532-d183-4b98-9b52-515f2710ee3f
+r	java:S106"+Replace this use of System.out by a logger.(â‰„æşÿÿÿÿ8§´¬Óé1J$09d924f9-b90e-4b06-bbe3-7a4ab59cbceb
+l	java:S106"+Replace this use of System.out by a logger.(•®¯n8©´¬Óé1J$a5c73774-1c89-4afb-856c-a6243690ecc2
+r	java:S106!"+Replace this use of System.out by a logger.(¶Êô€üÿÿÿÿ8«´¬Óé1J$1b8257f1-997d-4150-907e-e9b9ae7ab470
+m	java:S106""+Replace this use of System.out by a logger.(ÜÑû8«´¬Óé1J$05e2b45a-01e6-462d-ac3b-b0ec25e7a8ac
+l	java:S106("+Replace this use of System.out by a logger.(§êÑ8®´¬Óé1J$43374ee8-25a5-436d-92a5-70465758400a
+m	java:S106-"+Replace this use of System.out by a logger.(…«“ø8æ˜­Óé1J$73e5ad96-ac7d-445b-84c7-0bba4bff3463
